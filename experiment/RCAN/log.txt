@@ -1,0 +1,903 @@
+[Epoch: 1 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.701
+	Time : 1313.8438420295715
+Test :
+	PSNR : 29.718
+	Time : 82.78476572036743
+	Best : 
+		Best PSNR : 0 @ epoch 1
+		
+[Epoch: 2 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.694
+	Time : 1290.4425203800201
+Test :
+	PSNR : 29.745
+	Time : 81.78847599029541
+	Best : 
+		Best PSNR : 29.717680546545214 @ epoch 2
+[Epoch: 3 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.689
+	Time : 1321.397730588913
+Test :
+	PSNR : 29.748
+	Time : 82.31896448135376
+	Best : 
+		Best PSNR : 29.745234850914247 @ epoch 3
+[Epoch: 4 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.646
+	Time : 1318.925316810608
+Test :
+	PSNR : 29.762
+	Time : 82.32407903671265
+	Best : 
+		Best PSNR : 29.748438042979085 @ epoch 4
+[Epoch: 5 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.682
+	Time : 1334.5778770446777
+Test :
+	PSNR : 29.788
+	Time : 82.26429629325867
+	Best : 
+		Best PSNR : 29.761958437581217 @ epoch 5
+[Epoch: 6 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.644
+	Time : 1403.2395720481873
+Test :
+	PSNR : 29.804
+	Time : 82.62772464752197
+	Best : 
+		Best PSNR : 29.78832221800281 @ epoch 6
+[Epoch: 7 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.646
+	Time : 1420.5225276947021
+Test :
+	PSNR : 29.811
+	Time : 82.58285546302795
+	Best : 
+		Best PSNR : 29.803980519694665 @ epoch 7
+[Epoch: 8 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.643
+	Time : 1407.9595663547516
+Test :
+	PSNR : 29.812
+	Time : 82.50545477867126
+	Best : 
+		Best PSNR : 29.81143832206726 @ epoch 8
+[Epoch: 9 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.611
+	Time : 1413.779583454132
+Test :
+	PSNR : 29.750
+	Time : 81.92745780944824
+	Best : 
+		Best PSNR : 29.81143832206726 @ epoch 8
+[Epoch: 10 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.615
+	Time : 1414.0214304924011
+Test :
+	PSNR : 29.816
+	Time : 82.48228526115417
+	Best : 
+		Best PSNR : 29.750171515249438 @ epoch 10
+[Epoch: 11 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.601
+	Time : 1423.123647928238
+Test :
+	PSNR : 29.807
+	Time : 81.75999426841736
+	Best : 
+		Best PSNR : 29.750171515249438 @ epoch 10
+[Epoch: 12 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.610
+	Time : 1422.9160628318787
+Test :
+	PSNR : 29.851
+	Time : 82.34425473213196
+	Best : 
+		Best PSNR : 29.807212844971687 @ epoch 12
+[Epoch: 13 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.606
+	Time : 1414.7397055625916
+Test :
+	PSNR : 29.861
+	Time : 82.06817579269409
+	Best : 
+		Best PSNR : 29.851352468613655 @ epoch 13
+[Epoch: 14 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.568
+	Time : 1410.0422804355621
+Test :
+	PSNR : 29.852
+	Time : 81.64811182022095
+	Best : 
+		Best PSNR : 29.851352468613655 @ epoch 13
+[Epoch: 15 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.577
+	Time : 1401.5760383605957
+Test :
+	PSNR : 29.833
+	Time : 81.40447950363159
+	Best : 
+		Best PSNR : 29.851352468613655 @ epoch 13
+[Epoch: 16 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.562
+	Time : 1406.0065925121307
+Test :
+	PSNR : 29.840
+	Time : 81.88224387168884
+	Best : 
+		Best PSNR : 29.832615367827877 @ epoch 16
+[Epoch: 17 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.577
+	Time : 1400.5128619670868
+Test :
+	PSNR : 29.825
+	Time : 82.17642951011658
+	Best : 
+		Best PSNR : 29.832615367827877 @ epoch 16
+[Epoch: 18 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.566
+	Time : 1394.7720165252686
+Test :
+	PSNR : 29.886
+	Time : 81.90206146240234
+	Best : 
+		Best PSNR : 29.825498342514038 @ epoch 18
+[Epoch: 19 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.590
+	Time : 1405.023773908615
+Test :
+	PSNR : 29.910
+	Time : 81.58046102523804
+	Best : 
+		Best PSNR : 29.88627117679965 @ epoch 19
+[Epoch: 20 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.566
+	Time : 1390.4539806842804
+Test :
+	PSNR : 29.858
+	Time : 81.11612010002136
+	Best : 
+		Best PSNR : 29.88627117679965 @ epoch 19
+[Epoch: 21 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.529
+	Time : 1388.867606639862
+Test :
+	PSNR : 29.909
+	Time : 81.43238759040833
+	Best : 
+		Best PSNR : 29.858009615252094 @ epoch 21
+[Epoch: 22 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.522
+	Time : 1382.384522676468
+Test :
+	PSNR : 29.857
+	Time : 80.80858445167542
+	Best : 
+		Best PSNR : 29.858009615252094 @ epoch 21
+[Epoch: 23 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.533
+	Time : 1388.9119012355804
+Test :
+	PSNR : 29.903
+	Time : 81.61125087738037
+	Best : 
+		Best PSNR : 29.856551201112808 @ epoch 23
+[Epoch: 24 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.528
+	Time : 1394.5597710609436
+Test :
+	PSNR : 29.888
+	Time : 80.47107911109924
+	Best : 
+		Best PSNR : 29.856551201112808 @ epoch 23
+[Epoch: 25 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.542
+	Time : 1403.8045365810394
+Test :
+	PSNR : 29.930
+	Time : 85.71709966659546
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 26 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.534
+	Time : 1386.4157946109772
+Test :
+	PSNR : 29.919
+	Time : 80.8905782699585
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 27 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.505
+	Time : 1374.2872138023376
+Test :
+	PSNR : 29.914
+	Time : 81.07694149017334
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 28 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.530
+	Time : 1386.1044886112213
+Test :
+	PSNR : 29.892
+	Time : 80.48922777175903
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 29 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.489
+	Time : 1404.6294116973877
+Test :
+	PSNR : 29.884
+	Time : 80.50610947608948
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 30 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.533
+	Time : 1384.7808005809784
+Test :
+	PSNR : 29.872
+	Time : 80.89695453643799
+	Best : 
+		Best PSNR : 29.88751512189065 @ epoch 25
+[Epoch: 31 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.521
+	Time : 1392.6611697673798
+Test :
+	PSNR : 29.955
+	Time : 81.28150343894958
+	Best : 
+		Best PSNR : 29.871825072073168 @ epoch 31
+[Epoch: 32 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.464
+	Time : 1412.294352054596
+Test :
+	PSNR : 29.946
+	Time : 81.03874063491821
+	Best : 
+		Best PSNR : 29.871825072073168 @ epoch 31
+[Epoch: 33 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.475
+	Time : 1390.1155459880829
+Test :
+	PSNR : 29.886
+	Time : 80.91775679588318
+	Best : 
+		Best PSNR : 29.871825072073168 @ epoch 31
+[Epoch: 34 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.492
+	Time : 1383.0183308124542
+Test :
+	PSNR : 29.951
+	Time : 81.22478699684143
+	Best : 
+		Best PSNR : 29.885632361135176 @ epoch 34
+[Epoch: 35 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.466
+	Time : 1401.0644330978394
+Test :
+	PSNR : 29.923
+	Time : 80.60483813285828
+	Best : 
+		Best PSNR : 29.885632361135176 @ epoch 34
+[Epoch: 36 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.505
+	Time : 1394.475960969925
+Test :
+	PSNR : 29.954
+	Time : 81.3123869895935
+	Best : 
+		Best PSNR : 29.92349350067877 @ epoch 36
+[Epoch: 37 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.473
+	Time : 1404.5770647525787
+Test :
+	PSNR : 29.961
+	Time : 81.60794425010681
+	Best : 
+		Best PSNR : 29.953575757242017 @ epoch 37
+[Epoch: 38 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.488
+	Time : 1418.9309074878693
+Test :
+	PSNR : 29.904
+	Time : 80.86919474601746
+	Best : 
+		Best PSNR : 29.953575757242017 @ epoch 37
+[Epoch: 39 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.471
+	Time : 1382.5098145008087
+Test :
+	PSNR : 29.980
+	Time : 81.24635982513428
+	Best : 
+		Best PSNR : 29.90435784093795 @ epoch 39
+[Epoch: 40 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.444
+	Time : 1394.1776537895203
+Test :
+	PSNR : 29.976
+	Time : 80.99404215812683
+	Best : 
+		Best PSNR : 29.90435784093795 @ epoch 39
+[Epoch: 41 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.497
+	Time : 1392.6679792404175
+Test :
+	PSNR : 29.969
+	Time : 80.90128755569458
+	Best : 
+		Best PSNR : 29.90435784093795 @ epoch 39
+[Epoch: 42 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.476
+	Time : 1387.9168891906738
+Test :
+	PSNR : 29.973
+	Time : 81.35306739807129
+	Best : 
+		Best PSNR : 29.96918809029364 @ epoch 42
+[Epoch: 43 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.435
+	Time : 1424.4586379528046
+Test :
+	PSNR : 29.965
+	Time : 80.88258075714111
+	Best : 
+		Best PSNR : 29.96918809029364 @ epoch 42
+[Epoch: 44 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.450
+	Time : 1405.608433008194
+Test :
+	PSNR : 29.950
+	Time : 81.36757850646973
+	Best : 
+		Best PSNR : 29.96918809029364 @ epoch 42
+[Epoch: 45 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.445
+	Time : 1428.4126193523407
+Test :
+	PSNR : 29.969
+	Time : 81.72625541687012
+	Best : 
+		Best PSNR : 29.950105905532837 @ epoch 45
+[Epoch: 46 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.434
+	Time : 1432.752126455307
+Test :
+	PSNR : 29.958
+	Time : 80.95411276817322
+	Best : 
+		Best PSNR : 29.950105905532837 @ epoch 45
+[Epoch: 47 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.444
+	Time : 1435.2923793792725
+Test :
+	PSNR : 29.783
+	Time : 80.69811511039734
+	Best : 
+		Best PSNR : 29.950105905532837 @ epoch 45
+[Epoch: 48 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.443
+	Time : 1417.3925440311432
+Test :
+	PSNR : 29.950
+	Time : 81.49108743667603
+	Best : 
+		Best PSNR : 29.78340794194129 @ epoch 48
+[Epoch: 49 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.437
+	Time : 1418.1290771961212
+Test :
+	PSNR : 29.968
+	Time : 81.21122646331787
+	Best : 
+		Best PSNR : 29.949872278398082 @ epoch 49
+[Epoch: 50 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.412
+	Time : 1422.967227935791
+Test :
+	PSNR : 29.990
+	Time : 80.86966919898987
+	Best : 
+		Best PSNR : 29.967695274660663 @ epoch 50
+[Epoch: 51 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.432
+	Time : 1418.8439311981201
+Test :
+	PSNR : 29.993
+	Time : 80.75944328308105
+	Best : 
+		Best PSNR : 29.989842514837942 @ epoch 51
+[Epoch: 52 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.393
+	Time : 1424.7543625831604
+Test :
+	PSNR : 29.986
+	Time : 80.81717348098755
+	Best : 
+		Best PSNR : 29.989842514837942 @ epoch 51
+[Epoch: 53 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.434
+	Time : 1425.428499698639
+Test :
+	PSNR : 30.006
+	Time : 80.60519075393677
+	Best : 
+		Best PSNR : 29.985694692980857 @ epoch 53
+[Epoch: 54 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.421
+	Time : 1435.6533598899841
+Test :
+	PSNR : 30.013
+	Time : 81.15060949325562
+	Best : 
+		Best PSNR : 30.00615131470465 @ epoch 54
+[Epoch: 55 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.430
+	Time : 1421.093349456787
+Test :
+	PSNR : 29.991
+	Time : 80.69766092300415
+	Best : 
+		Best PSNR : 30.00615131470465 @ epoch 54
+[Epoch: 56 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.427
+	Time : 1421.4089379310608
+Test :
+	PSNR : 30.000
+	Time : 80.99622988700867
+	Best : 
+		Best PSNR : 29.99053235976927 @ epoch 56
+[Epoch: 57 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.426
+	Time : 1425.6807651519775
+Test :
+	PSNR : 29.983
+	Time : 80.6830677986145
+	Best : 
+		Best PSNR : 29.99053235976927 @ epoch 56
+[Epoch: 58 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.389
+	Time : 1417.7408981323242
+Test :
+	PSNR : 30.002
+	Time : 90.98431921005249
+	Best : 
+		Best PSNR : 29.983065797436623 @ epoch 58
+[Epoch: 59 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.413
+	Time : 1456.490979194641
+Test :
+	PSNR : 30.005
+	Time : 80.9952220916748
+	Best : 
+		Best PSNR : 30.001760651988366 @ epoch 59
+[Epoch: 60 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.395
+	Time : 1641.358547925949
+Test :
+	PSNR : 29.986
+	Time : 80.73794031143188
+	Best : 
+		Best PSNR : 30.001760651988366 @ epoch 59
+[Epoch: 61 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.414
+	Time : 1872.64218044281
+Test :
+	PSNR : 30.004
+	Time : 85.01513504981995
+	Best : 
+		Best PSNR : 29.985632511877245 @ epoch 61
+[Epoch: 62 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.412
+	Time : 2093.388627052307
+Test :
+	PSNR : 30.016
+	Time : 83.27565479278564
+	Best : 
+		Best PSNR : 30.0041254643471 @ epoch 62
+[Epoch: 63 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.412
+	Time : 2038.6741721630096
+Test :
+	PSNR : 30.004
+	Time : 84.72696137428284
+	Best : 
+		Best PSNR : 30.0041254643471 @ epoch 62
+[Epoch: 64 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.426
+	Time : 2117.2085695266724
+Test :
+	PSNR : 30.023
+	Time : 85.38992142677307
+	Best : 
+		Best PSNR : 30.00366743149296 @ epoch 64
+[Epoch: 65 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.375
+	Time : 1981.9850034713745
+Test :
+	PSNR : 30.013
+	Time : 92.17258667945862
+	Best : 
+		Best PSNR : 30.00366743149296 @ epoch 64
+[Epoch: 66 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.388
+	Time : 1996.3133628368378
+Test :
+	PSNR : 30.008
+	Time : 82.10624551773071
+	Best : 
+		Best PSNR : 30.00366743149296 @ epoch 64
+[Epoch: 67 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.394
+	Time : 2054.32736992836
+Test :
+	PSNR : 30.004
+	Time : 83.08308148384094
+	Best : 
+		Best PSNR : 30.00366743149296 @ epoch 64
+[Epoch: 68 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.416
+	Time : 2189.3187580108643
+Test :
+	PSNR : 30.044
+	Time : 82.67445659637451
+	Best : 
+		Best PSNR : 30.00427436059521 @ epoch 68
+[Epoch: 69 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.373
+	Time : 1944.796783208847
+Test :
+	PSNR : 30.028
+	Time : 82.16876721382141
+	Best : 
+		Best PSNR : 30.00427436059521 @ epoch 68
+[Epoch: 70 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.408
+	Time : 2233.590964794159
+Test :
+	PSNR : 30.030
+	Time : 91.08359432220459
+	Best : 
+		Best PSNR : 30.02764294993493 @ epoch 70
+[Epoch: 71 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.375
+	Time : 2115.0977907180786
+Test :
+	PSNR : 30.051
+	Time : 84.65679430961609
+	Best : 
+		Best PSNR : 30.030242673812374 @ epoch 71
+[Epoch: 72 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.377
+	Time : 2050.7319552898407
+Test :
+	PSNR : 30.032
+	Time : 83.14202165603638
+	Best : 
+		Best PSNR : 30.030242673812374 @ epoch 71
+[Epoch: 73 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.377
+	Time : 1996.664202928543
+Test :
+	PSNR : 29.967
+	Time : 82.66925549507141
+	Best : 
+		Best PSNR : 30.030242673812374 @ epoch 71
+[Epoch: 74 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.344
+	Time : 2065.04030251503
+Test :
+	PSNR : 30.029
+	Time : 84.01703453063965
+	Best : 
+		Best PSNR : 29.966734847714825 @ epoch 74
+[Epoch: 75 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.376
+	Time : 2219.3806512355804
+Test :
+	PSNR : 30.027
+	Time : 83.22010040283203
+	Best : 
+		Best PSNR : 29.966734847714825 @ epoch 74
+[Epoch: 76 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.365
+	Time : 1856.8730998039246
+Test :
+	PSNR : 30.047
+	Time : 82.91555762290955
+	Best : 
+		Best PSNR : 30.026966702553533 @ epoch 76
+[Epoch: 77 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.377
+	Time : 2010.2153596878052
+Test :
+	PSNR : 30.034
+	Time : 82.8994836807251
+	Best : 
+		Best PSNR : 30.026966702553533 @ epoch 76
+[Epoch: 78 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.407
+	Time : 1893.10991024971
+Test :
+	PSNR : 30.050
+	Time : 82.27658724784851
+	Best : 
+		Best PSNR : 30.033745827213412 @ epoch 78
+[Epoch: 79 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.367
+	Time : 2066.1717693805695
+Test :
+	PSNR : 30.041
+	Time : 83.00677967071533
+	Best : 
+		Best PSNR : 30.033745827213412 @ epoch 78
+[Epoch: 80 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.351
+	Time : 1871.819881439209
+Test :
+	PSNR : 30.051
+	Time : 83.65669560432434
+	Best : 
+		Best PSNR : 30.040518729917466 @ epoch 80
+[Epoch: 81 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.389
+	Time : 1964.7587566375732
+Test :
+	PSNR : 30.029
+	Time : 83.04562497138977
+	Best : 
+		Best PSNR : 30.040518729917466 @ epoch 80
+[Epoch: 82 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.394
+	Time : 1996.6033585071564
+Test :
+	PSNR : 30.041
+	Time : 85.15959191322327
+	Best : 
+		Best PSNR : 30.029497838789418 @ epoch 82
+[Epoch: 83 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.313
+	Time : 1989.4135191440582
+Test :
+	PSNR : 30.046
+	Time : 83.12044095993042
+	Best : 
+		Best PSNR : 30.041461867670858 @ epoch 83
+[Epoch: 84 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.364
+	Time : 1946.9321908950806
+Test :
+	PSNR : 30.068
+	Time : 82.60314750671387
+	Best : 
+		Best PSNR : 30.04634617990063 @ epoch 84
+[Epoch: 85 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.343
+	Time : 2054.6778774261475
+Test :
+	PSNR : 30.048
+	Time : 81.94321417808533
+	Best : 
+		Best PSNR : 30.04634617990063 @ epoch 84
+[Epoch: 86 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.340
+	Time : 2175.173444032669
+Test :
+	PSNR : 30.033
+	Time : 82.61677861213684
+	Best : 
+		Best PSNR : 30.04634617990063 @ epoch 84
+[Epoch: 87 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.331
+	Time : 1930.9269182682037
+Test :
+	PSNR : 30.044
+	Time : 82.86126732826233
+	Best : 
+		Best PSNR : 30.032741454339796 @ epoch 87
+[Epoch: 88 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.372
+	Time : 2002.6501443386078
+Test :
+	PSNR : 30.060
+	Time : 83.66922903060913
+	Best : 
+		Best PSNR : 30.043898690131403 @ epoch 88
+[Epoch: 89 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.335
+	Time : 1946.116719007492
+Test :
+	PSNR : 30.086
+	Time : 83.30713653564453
+	Best : 
+		Best PSNR : 30.059668848591468 @ epoch 89
+[Epoch: 90 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.335
+	Time : 2110.7963111400604
+Test :
+	PSNR : 30.063
+	Time : 81.7921302318573
+	Best : 
+		Best PSNR : 30.059668848591468 @ epoch 89
+[Epoch: 91 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.372
+	Time : 1897.655314207077
+Test :
+	PSNR : 30.068
+	Time : 83.61748623847961
+	Best : 
+		Best PSNR : 30.062599166747063 @ epoch 91
+[Epoch: 92 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.343
+	Time : 1936.767549753189
+Test :
+	PSNR : 30.012
+	Time : 83.26321244239807
+	Best : 
+		Best PSNR : 30.062599166747063 @ epoch 91
+[Epoch: 93 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.350
+	Time : 1903.628662109375
+Test :
+	PSNR : 30.046
+	Time : 84.97290444374084
+	Best : 
+		Best PSNR : 30.01212114672507 @ epoch 93
+[Epoch: 94 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.361
+	Time : 2004.460936307907
+Test :
+	PSNR : 30.056
+	Time : 83.02024245262146
+	Best : 
+		Best PSNR : 30.045889308375695 @ epoch 94
+[Epoch: 95 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.362
+	Time : 1880.0995976924896
+Test :
+	PSNR : 30.055
+	Time : 83.0475583076477
+	Best : 
+		Best PSNR : 30.045889308375695 @ epoch 94
+[Epoch: 96 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.343
+	Time : 1911.8146796226501
+Test :
+	PSNR : 30.064
+	Time : 83.48400855064392
+	Best : 
+		Best PSNR : 30.055070923220725 @ epoch 96
+[Epoch: 97 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.360
+	Time : 1993.3066532611847
+Test :
+	PSNR : 30.065
+	Time : 84.9308819770813
+	Best : 
+		Best PSNR : 30.064068348177017 @ epoch 97
+[Epoch: 98 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.342
+	Time : 1962.330803155899
+Test :
+	PSNR : 30.046
+	Time : 82.75568985939026
+	Best : 
+		Best PSNR : 30.064068348177017 @ epoch 97
+[Epoch: 99 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.345
+	Time : 1825.0140619277954
+Test :
+	PSNR : 30.062
+	Time : 83.07827305793762
+	Best : 
+		Best PSNR : 30.04648139399867 @ epoch 99
+[Epoch: 100 ] : Learning rate : 0.0001
+Train :
+	Loss : 5.345
+	Time : 1881.888215303421
+Test :
+	PSNR : 30.059
+	Time : 82.53675031661987
+	Best : 
+		Best PSNR : 30.04648139399867 @ epoch 99
+[Epoch: 101 ] : Learning rate : 0.0001
+Train :
