@@ -2,6 +2,17 @@
 
 该项目实现了 Residual Channel Attention Network (RCAN)，用于图像超分辨率任务。RCAN 利用残差组（Residual Groups）和通道注意力机制（Channel Attention Mechanism），在保持图像细节的同时显著提升图像分辨率。
 
+## 示例
+### gradio展示
+![gradio](./docs/gradio.png)
+
+### 效果对比
+左上和右下是原图 (LR)，右上和左下为超分后的图片 (SR)。
+拼接时对原图进行了`cv2.resize()`对齐图片。
+| ![img1](./docs/img_window1.png) | ![img2](./docs/img_window2.png) |
+|------------------------|------------------------|
+| ![img3](./docs/img_window3.png) | ![img4](./docs/img_window4.png) |
+
 ## 目录
 - [项目简介](#项目简介)
 - [依赖项](#依赖项)
@@ -10,10 +21,6 @@
 - [训练模型](#训练模型)
   - [数据集构建](#数据集构建)
   - [开始训练](#开始训练)
-- [示例](#示例)
-  - [gradio展示](#gradio展示)
-  - [效果对比](#效果对比)
-
 
 ## 项目简介
 
@@ -96,15 +103,6 @@ nohup python main.py --save RCAN --load RCAN --gpu_id 0 --batch_size 32 --repeat
 - --pretrain 加载模型路径
 - --load 断点恢复, 文件夹名
 
-## 示例
-### gradio展示
-![gradio](./docs/gradio.png)
 
-### 效果对比
-左上和右下是原图 (LR)，右上和左下为超分后的图片 (SR)。
-拼接时对原图进行了`cv2.resize()`对齐图片。
-| ![img1](./docs/img_window1.png) | ![img2](./docs/img_window2.png) |
-|------------------------|------------------------|
-| ![img3](./docs/img_window3.png) | ![img4](./docs/img_window4.png) |
 
 
